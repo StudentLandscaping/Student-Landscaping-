@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Student Landscaping</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      background: #eee;
+      padding: 0.5rem;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #4CAF50;
+      font-weight: bold;
+    }
+    section {
+      padding: 1.5rem;
+    }
+    .gallery img {
+      max-width: 100%;
+      height: auto;
+      margin: 0.5rem;
+    }
+    footer {
+      background: #4CAF50;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    .testimonial {
+      background: #fff;
+      border-left: 4px solid #4CAF50;
+      margin-bottom: 1rem;
+      padding: 0.5rem 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Student Landscaping</h1>
+    <p>Fast, effective, and fair-priced landscaping with respect</p>
+  </header>
+
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#testimonials">Testimonials</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Tree Removal</li>
+      <li>Weeding</li>
+      <li>Mulching</li>
+      <li>Waste Removal</li>
+      <li>Stump Removal & Branch Trimming</li>
+      <li>Garden Bed Installation</li>
+      <li>Fence Building & Repair</li>
+    </ul>
+  </section>
+
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <div class="gallery">
+      <img src="IMG_9333.jpg" alt="Project 1">
+      <img src="IMG_9338.jpg" alt="Project 2">
+      <img src="IMG_9588.jpg" alt="Project 3">
+      <img src="IMG_9634.jpg" alt="Project 4">
+      <img src="IMG_9678.jpg" alt="Pro_
